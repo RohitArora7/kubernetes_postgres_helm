@@ -1,4 +1,4 @@
-# kubernetes_postres_helm
+# kubernetes_postgres_helm
 
 ```bash
 helm repo add [repository-name] [repository-address]
